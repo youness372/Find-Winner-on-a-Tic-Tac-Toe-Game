@@ -140,6 +140,10 @@ else :
   "Panding"
 ```
 
+## *Time and Space Complexity ⏳&☄️*   
+  ### *Time complexity ⏳*  : $$O(1)$$   
+  ### *Space complexity ☄️*  : $$O(1)$$  
+
 
 ## *The Translation of all the part  to the final  Code ⚔️*   
 
